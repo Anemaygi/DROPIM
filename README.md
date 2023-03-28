@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./etc/DROPIM.png" /><br/>
+  <img src="./etc/DROPIMp.png" /><br/>
   Dispositivo de Rastreamento Ocular para Deficiências Motoras
 </p>
 
